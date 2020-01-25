@@ -1,0 +1,11 @@
+.vs/
+Session1.Common/bin
+Session1.Common/obj
+Session1.Data/bin
+Session1.Data/obj
+Session1.Presentation/bin
+Session1.Presentation/obj
+Session1.Repo/bin
+Session1.Repo/obj
+Session1.Services/bin
+Session1.Services/obj
